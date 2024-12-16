@@ -3,7 +3,7 @@
       {
         "category": "Analgesics",
         "items": [
-          { "id": "paracetamol", "name": "Paracetamol $5", "price": 5, "image": "./Images/paracetamol.jpg" },
+          { "id": "paracetamol", "name": "Paracetamol $5", "price": 5, "image": "./Images/Paracetamol.jpg" },
           { "id": "ibuprofen", "name": "Ibuprofen $7", "price": 7, "image": "./Images/ibuprofen.jpg" },
           { "id": "aspirin", "name": "Aspirin $6", "price": 6, "image": "./Images/aspirin.jpg" },
           { "id": "diclofenac", "name": "Diclofenac $8", "price": 8, "image": "./Images/diclofenac.jpg" },
